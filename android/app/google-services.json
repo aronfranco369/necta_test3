@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252334396153",
+    "project_id": "necta-test1-81f48",
+    "storage_bucket": "necta-test1-81f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252334396153:android:cd41072fb8b86d9c678828",
+        "android_client_info": {
+          "package_name": "com.aronfranco.necta_test3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVs_Osn6kgxeXCtqzcphQBQ2loaRPZsoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252334396153:android:9bcf057b3c8a0d59678828",
+        "android_client_info": {
+          "package_name": "com.aronfranco.necta_test3com.aronfranco.necta_test3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVs_Osn6kgxeXCtqzcphQBQ2loaRPZsoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
